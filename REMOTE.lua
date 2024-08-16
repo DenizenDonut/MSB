@@ -1,1 +1,1 @@
-g/net
+print("HELLO WORLD")
