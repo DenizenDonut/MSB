@@ -1,1 +1,1 @@
-peanut
+print("Hello")
